@@ -1,5 +1,4 @@
-## Hi there 👋
-## I'm Deepak Kumar Saini
+## Hi, I'm Deepak <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" width="30" height="30">
 
 <!--
 **Deepak-Kumar-Saini/Deepak-Kumar-Saini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
