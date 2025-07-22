@@ -1,4 +1,3 @@
-
 ![Banner Image](https://raw.githubusercontent.com/Deepak-Kumar-Saini/Deepak-Kumar-Saini/refs/heads/main/banner.png)
 
 ---
@@ -8,6 +7,8 @@
 
 🎓 I recently completed my **Bachelor of Computer Applications (BCA)** in 2023, and I'm passionate about building beautiful and functional websites. I love working with the **frontend** and enjoy turning ideas into responsive and interactive interfaces.
 
+---
+## Highly Motivated : Excellent Communicator : Effective Problem Solver : Lifelong Learner</h1>
 ---
 
 ### 💻 Tech Stack
